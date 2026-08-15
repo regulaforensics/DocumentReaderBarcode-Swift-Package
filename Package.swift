@@ -10,6 +10,6 @@ let package = Package(
             targets: ["BarcodeStage"]),
     ],
     targets: [
-        .binaryTarget(name: "BarcodeStage", url: "https://pods.regulaforensics.com/Stage/BarcodeStage/9.8.19799/DocumentReaderCoreStage_barcode_9.8.19799.zip", checksum: "0059f940323501b2cbee615c84fc2aa60dd17ba88dc4366a1b128990e2dad701"),
+        .binaryTarget(name: "BarcodeStage", url: "https://pods.regulaforensics.com/Stage/BarcodeStage/9.8.19899/DocumentReaderCoreStage_barcode_9.8.19899.zip", checksum: "49e4c7ed724227950f33d90c4d8d72653f990d4eee1c39ff4081dbab8f8741d4"),
     ]
 )
